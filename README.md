@@ -1,4 +1,5 @@
-[призентация.pdf](https://github.com/user-attachments/files/34575465/default.pdf)
+[призентация.pdf](https://github.com/user-attachments/files/34575518/default.pdf)
+
 [python main.py](https://github.com/user-attachments/files/34575490/python.main.py)
 
 import sys
